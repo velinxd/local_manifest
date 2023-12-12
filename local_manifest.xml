@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/RMX2185/G" name="VelinXd/device_realme_RMX2185.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/RMX2185" name="VelinXd/vendor_realme_RMX2185.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/RMX2185/G" name="android_kernel_realme_mt6765.git" remote="github" revision="lineage-17.1" />
+ 
+</manifest>
