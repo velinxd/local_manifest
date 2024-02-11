@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/RMX2185/G" name="VelinXd/device_realme_RMX2185.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/RMX2185" name="VelinXd/vendor_realme_RMX2185.git" remote="github" revision="lineage-18.1" />
- <project path="kernel/RMX2185/G" name="android_kernel_realme_mt6765.git" remote="github" revision="lineage-17.1" />
+ <project path="device/realme/RMX3063" name="VelinXd/device_tree_RMX3063.git" remote="github" revision="arrow-a12" />
+ <project path="vendor/realme/RMX3063" name="VelinXd/VendorTree_RMX3063.git" remote="github" revision="lineage-18.1" />
+ <project path="kernel/realme/RMX3063" name="android_kernel_RMX3063Q.git" remote="github" revision="main" />
  
 </manifest>
